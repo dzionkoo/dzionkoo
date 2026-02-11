@@ -3,7 +3,6 @@
 
 - 📫 How to reach me on DC **bubblemaker**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
