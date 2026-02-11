@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dzionko</h1>
+<h1 align="center">Sup, I'm Dzionko</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzionko&label=Profile%20views&color=0e75b6&style=flat-square" alt="dzionko" /> </p>
 
 - 📫 How to reach me on DC **bubblemaker**
